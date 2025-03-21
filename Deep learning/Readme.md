@@ -10,7 +10,7 @@ This project demonstrates how to implement and evaluate a machine learning model
 1. [Overview](#overview)  
 2. [Requirements](#requirements)  
 3. [Usage](#usage)  
-4. [Troubleshooting](#troubleshooting)  
+  
 
 
 ---
